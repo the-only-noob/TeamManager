@@ -1,0 +1,4 @@
+name: TeamManager
+version: '${project.version}'
+main: theonlynoob.teammanager.TeamManager
+description: Manage your team!
